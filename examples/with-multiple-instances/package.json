@@ -13,6 +13,6 @@
     "body-parser": "^1.19.0",
     "@bull-board/express": "^3.0.0",
     "bullmq": "^1.24.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
